@@ -1,0 +1,8 @@
+com\test\webscoop\js\ExtractLibraries.class
+com\test\webscoop\websense\WebAnalytics.class
+com\test\webscoop\js\ExtractLibrariesImpl.class
+com\test\webscoop\Error\NoSearchResultsFound.class
+com\test\webscoop\websense\WebJSLibAnalytics.class
+com\test\webscoop\searchengine\SearchEngine.class
+com\test\webscoop\searchengine\BingSearch.class
+com\test\webscoop\WebScoopApp.class
