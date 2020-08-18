@@ -16,11 +16,11 @@ Maven
 * java -jar target/sravscoop-0.0.1-SNAPSHOT-shaded.jar covid
 
 ## Running the tests
-mvn test
+* mvn test
 
 
-* **Response**
-*  Most used js libraries list[adsbygoogle.js=12, section.min.js=2, jquery.min.js=2, analytics_cdcgov.js=1, preb
+## Response
+* Most used js libraries list[adsbygoogle.js=12, section.min.js=2, jquery.min.js=2, analytics_cdcgov.js=1, preb
 id.js=1]
 
 ## Built With
