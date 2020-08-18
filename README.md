@@ -20,7 +20,7 @@ mvn test
 
 
 * **Response**
- Most used js libraries list[adsbygoogle.js=12, section.min.js=2, jquery.min.js=2, analytics_cdcgov.js=1, preb
+*  Most used js libraries list[adsbygoogle.js=12, section.min.js=2, jquery.min.js=2, analytics_cdcgov.js=1, preb
 id.js=1]
 
 ## Built With
